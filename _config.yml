@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: On The Move 
+description: Summit Website
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://techsolidaritylab.com/on-the-move
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+sass:
+  custom_css: _sass/custom/custom.scss

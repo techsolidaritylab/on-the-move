@@ -16,9 +16,11 @@ nav_order: 2
 
 ### Option 1: Airport Shuttle + Trolley
 
-**Time:** 45 Mins - 1 Hr <br>
-**Cost:** $2.5 <br>
-**Free Airport Shuttle:** Upon arriving at the San Diego airport, you are encouraged to take the free electric shuttle bus, the “San Diego Flyer,” from the airport to the Old Town Transit Center located at 4005 Taylor Street, San Diego, CA 92110. The shuttle operates seven days a week every 20-30 minutes, stopping at both Terminal 1 and Terminal 2 transportation islands before stopping at the Old Town Transit Center. These shuttles are recognizable through a branded light orange wrap with plane icons and the word “Flyer” across the sides. No reservation is required for this shuttle. <br>
+**Time:** 45 Mins - 1 Hr 
+
+**Cost:** $2.5 
+
+**Free Airport Shuttle:** Upon arriving at the San Diego airport, you are encouraged to take the free electric shuttle bus, the “San Diego Flyer,” from the airport to the Old Town Transit Center located at 4005 Taylor Street, San Diego, CA 92110. The shuttle operates seven days a week every 20-30 minutes, stopping at both Terminal 1 and Terminal 2 transportation islands before stopping at the Old Town Transit Center. These shuttles are recognizable through a branded light orange wrap with plane icons and the word “Flyer” across the sides. No reservation is required for this shuttle. 
 
 From there, you can take the Blue Line trolley going towards UTC directly to the Executive Drive Trolley stop, which will drop you a ~5-10 Min walk from the hotel.
 
@@ -26,8 +28,9 @@ From there, you can take the Blue Line trolley going towards UTC directly to the
 
 ### Option 2: Taxi and Rideshare
 
-**Time:** 20 \- 30 Mins  
-**Cost:** $30-$60
+**Time:** 20 - 30 Mins 
+
+**Cost:** $30 - $60
 
 Designated rideshare passenger pickup locations are located at both Terminal 1 and 2:
 
@@ -50,9 +53,9 @@ Designated rideshare passenger pickup locations are located at both Terminal 1 a
 
 From the hotel walk to the executive drive trolley stop. Jump on the Blue line trolley headed to San Ysidro. Get down 2 stops later at UCSD Central Campus station. The Central Campus station is right beside the Design and Innovation Building.
 
-Head into the building and head to 2nd floor, room 208 is right in front of the stairs.
+Head into the building and head to 2nd floor, Room 208 is right in front of the stairs.
 
-**Note:** We highly recommend using the trolley only to travel to campus, parking on campus is expensive and can be difficult to find.  
+**Note:** We highly recommend using the trolley to travel to campus. Parking on campus is expensive and can be difficult to find.  
 [**Directions to Design and Innovation Buidling:**](https://maps.app.goo.gl/uVK5DukWwdsbxYKJ9)
 
 

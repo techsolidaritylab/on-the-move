@@ -29,6 +29,20 @@ nav_order: 2
     City University of New York
   </div>
 
+  <div style="text-align: center;">
+    <img src="../assets/images/udayan.png" alt="Udayan Tandon" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong>Udayan Tandon</strong><br>
+    University of California, San Diego
+  </div>
+
+  <div style="text-align: center;">
+    <img src="../assets/images/shivani.jpeg" alt="Shivani Kapania" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"><br>
+    <strong>Shivani Kapania</strong><br>
+    Carnegie Mellon University
+  </div>
+
+  
+
 </div>
 
 <br> 

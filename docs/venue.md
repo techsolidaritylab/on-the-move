@@ -19,7 +19,7 @@ From the hotel walk to the executive drive trolley stop. Jump on the Blue line t
 Head into the building and head to 2nd floor, Room 208 is right in front of the stairs.
 
 **Note:** We highly recommend using the trolley to travel to campus. Parking on campus is expensive and can be difficult to find.  
-[**Directions to Design and Innovation Buidling:**](https://maps.app.goo.gl/uVK5DukWwdsbxYKJ9)
+[**Directions to Design and Innovation Building**](https://maps.app.goo.gl/uVK5DukWwdsbxYKJ9)
 
 ## Parking Information
 

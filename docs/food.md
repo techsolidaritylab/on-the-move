@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Food Recommendations
+title: Food Options
 nav_order: 4
 ---
 
-## Places to eat close to the hotel
+## Restaurants near the hotel
 
 ### Right outside the hotel:
 [Regents Pizzeria](https://maps.app.goo.gl/K7yr3NTaqF6XMiFU8) <br>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Food Options
+title: Food Recommendations
 nav_order: 4
 ---
 

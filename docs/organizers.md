@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Organizers
-nav_order: 2
+title: Workshop Organizers
+nav_order: 5
 ---
 
-# Organizers
+# Workshop Organizers
 <br>
 <br>
 <br>

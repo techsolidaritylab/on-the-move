@@ -1,11 +1,8 @@
 ---
 layout: default
-title: Logistics
+title: Hotel Information
 nav_order: 2
 ---
-
-# Logistics
-<br>
 
 
 ## Hotel Address
@@ -41,24 +38,6 @@ Designated rideshare passenger pickup locations are located at both Terminal 1 a
 
 **For Rideshare:** Use your app of choice to book a ride, head to the transportation plaza of your respective arrival terminal and wait until the car arrives.
 
-## Getting from Hotel to Workshop Venue
-
-**Workshop Venue Address:** [Design and Innovation Building, 9510 Innovation Ln, La Jolla, CA 92093](https://maps.app.goo.gl/ve6gp3AuMZCrSr6h6)
-
-**Room: DIB 208, 2nd Floor** 
-
-### **Blue Line Trolley**
-
-**Time:** 20-30 Mins
-
-From the hotel walk to the executive drive trolley stop. Jump on the Blue line trolley headed to San Ysidro. Get down 2 stops later at UCSD Central Campus station. The Central Campus station is right beside the Design and Innovation Building.
-
-Head into the building and head to 2nd floor, Room 208 is right in front of the stairs.
-
-**Note:** We highly recommend using the trolley to travel to campus. Parking on campus is expensive and can be difficult to find.  
-[**Directions to Design and Innovation Buidling:**](https://maps.app.goo.gl/uVK5DukWwdsbxYKJ9)
-
-
 ## Places to eat close to the hotel:
 
 ### Right outside the hotel:
@@ -71,9 +50,5 @@ Head into the building and head to 2nd floor, Room 208 is right in front of the 
 [Amardeen](https://maps.app.goo.gl/H3HidYGhUe8NFKm38) (Lebanese Cuisine) <br>
 [Taste of the Himalayas](https://maps.app.goo.gl/xbprfCqyxmjtqtUw5) (Indian) <br>
 [Chicago Fire Grill](https://maps.app.goo.gl/ZzxFtuuyYWq1ejrw9) (Burgers)
-
-## Traveling from the airport to the hotel: 
-
-TBD 
 
 

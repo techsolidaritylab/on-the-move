@@ -4,9 +4,7 @@ title: Workshop Organizers
 nav_order: 5
 ---
 
-# Workshop Organizers
-<br>
-<br>
+## Workshop Organizers
 <br>
 
 <div style="display: grid;

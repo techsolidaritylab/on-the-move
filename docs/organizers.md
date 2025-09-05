@@ -9,8 +9,7 @@ nav_order: 5
 <br>
 <br>
 
-<div style="
-  display: grid;
+<div style="display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   max-width: 900px;
   margin: 0 auto;

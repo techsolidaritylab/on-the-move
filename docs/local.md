@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Local Points of Interest
-nav_order: 6
+nav_order: 5
 ---
 
 ## Local Points of Interest

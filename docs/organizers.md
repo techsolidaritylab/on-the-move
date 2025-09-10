@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Workshop Organizers
-nav_order: 5
+nav_order: 6
 ---
 
 ## Workshop Organizers

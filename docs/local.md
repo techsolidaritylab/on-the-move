@@ -6,6 +6,11 @@ nav_order: 5
 
 ## Local Points of Interest
 
+1. If you’d like to go to a nearby beach, we recommend taking the [30 bus to La Jolla Shores](https://maps.app.goo.gl/azqCcaXfFp7YuYni7)   
+2. ⁠For nature lovers, you can take the [101 bus to Torrey Pines State Beach](https://maps.app.goo.gl/Q6Ep2B5nHfZHuyHi6) and check out some gorgeous cliff views.  
+3. ⁠Blue line [trolley down to Chicano Park](https://maps.app.goo.gl/K6yEXE7D5g6FVi2N9)  
+4. ⁠If you’d like to relax somewhere nearby, the outdoor mall Westfield UTC is about a 10-minute walk from the hotel.
+
 **Pacific Beach**  
 Pacific Beach is a long sandy beach popular with college students and lined with bars, cafes, and restaurants.   
 [Oscar’s Mexican Seafood](https://maps.app.goo.gl/qn2skv63KXHjGMg1A) \- Great fish tacos and seafood consomme.   
